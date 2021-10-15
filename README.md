@@ -14,8 +14,10 @@
 - ⚡Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
 - 😎 Hobbies: Chess, Gaming ,Listening Music 😍
 
+<br/>
 
-<h2 align="center">My Github Statistics 🔥</h2>   
+
+<h2 align="left">My Github Statistics :</h2>   
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sauvic016&show_icons=true&theme=radical" alt="2" />
