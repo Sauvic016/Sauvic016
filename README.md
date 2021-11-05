@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/sauvic016" target="_blank">Sauvic.</h1></a>
 
-<h3 align="center">A software developer from India. I’m pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about DSA, Web Dev, Blockchain & I enjoy learning new things.</h3>
+<h3 align="center">A software developer from India. I’m pursuing my Bachelors in Computer Science & Engineering. <br/> 👨‍💻 I am passionate about DSA, Web Dev, Blockchain & I enjoy learning new things.</h3>
     
 ![](https://komarev.com/ghpvc/?username=sauvic016&color=47ccb3)
 
@@ -36,7 +36,7 @@
 
 ## Languages and Tools:
 
-<p align="left">
+<p align="left" style="margin-top:30px">
 
 
 <img align="left" alt="C++" height="40" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
@@ -49,16 +49,17 @@
  
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 
-<img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-
-<img align = "left" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-
+<img align = "left" style ="background-color:white" src="https://i.ibb.co/cbYjy0N/pngegg-removebg-preview.jpg" alt="express" width="80" height="40"/> 
+    
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
 <img align = "left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 
+ <br/>
+ <br/>
+    
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
@@ -75,6 +76,7 @@
 
 </p>
 
+<br/>
 
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="16px"> 
 
