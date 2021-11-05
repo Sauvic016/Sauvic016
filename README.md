@@ -36,7 +36,7 @@
 
 ## Languages and Tools:
 
-<p align="left" style="margin-top:30px">
+<div align="left" style="margin:30px">
 
 
 <img align="left" alt="C++" height="40" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
@@ -48,17 +48,12 @@
 <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" />
  
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-
-<img align = "left" style ="background-color:white" src="https://i.ibb.co/cbYjy0N/pngegg-removebg-preview.jpg" alt="express" width="80" height="40"/> 
     
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
 <img align = "left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-
- <br/>
- <br/>
     
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
@@ -74,7 +69,7 @@
 
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 
-</p>
+</div>
 
 <br/>
 
