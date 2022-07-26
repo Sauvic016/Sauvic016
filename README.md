@@ -1,14 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/sauvic016" target="_blank">Sauvic.</h1></a>
 
-<h3 align="center">A software developer from India. I’m pursuing my Bachelors in Computer Science & Engineering. <br/> 👨‍💻 I am passionate about DSA, Web Dev, Blockchain & I enjoy learning new things.</h3>
+<h3 align="center">A software developer from India. I’m pursuing my Bachelors in Computer Science & Engineering. <br/> 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.</h3>
     
 ![](https://komarev.com/ghpvc/?username=sauvic016&color=47ccb3)
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **ReactJS**
 - 🌱 I’m currently learning **MERN STACK**
-- 🤝 I’m looking for help with **DevOps**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sauvic-p-625731209/)
 - 😄 Pronouns: He/Him
 - ⚡Fun fact: The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.
@@ -23,27 +22,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sauvic016&show_icons=true&theme=radical" alt="2" />
 </p>
 
-<!-- <h2 align ="center">📚 Most Used Languages</h2>
-  <p align="center">
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauvic016&layout=compact" />
-  </p> -->
-
- <p align="center">
-  <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-</p>
-
-
-
 ## Languages and Tools:
 
 <div align="left" style="margin:30px">
 
 
 <img align="left" alt="C++" height="40" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-
-<img align="left" alt="HTML5" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" height="40" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" />
  
